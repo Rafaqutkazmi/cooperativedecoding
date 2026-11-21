@@ -1,0 +1,1 @@
+"""Public decoder package module."""

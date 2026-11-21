@@ -1,0 +1,25 @@
+Custom Academic Evaluation and Reproducibility License (Public Decoder Only)
+
+Copyright (c) 2026 Authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the public decoder software and synthetic test fixtures in this archive to
+use, copy, modify, merge, publish, and distribute those materials solely for
+academic evaluation and reproducibility testing, subject to the provenance and
+scope notices in ARTIFACT_SCOPE.md and DATA_PROVENANCE.md.
+
+This is a CUSTOM permission grant. It is NOT the MIT license and does not grant
+unrestricted commercial reuse. It licenses only materials for which the named
+copyright holders possess the necessary rights. It grants no rights to private
+model checkpoints, third-party videos, third-party datasets, or trademarks.
+
+THE PUBLIC DECODER SOFTWARE AND SYNTHETIC FIXTURES ARE PROVIDED "AS IS",
+WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+Before distribution, confirm that contributors have authority to grant these
+permissions and that third-party licenses and relevant patent rights are respected.
+Obtain legal review as appropriate. No permission to redistribute separately held
+private samples is implied.
